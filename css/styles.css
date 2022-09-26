@@ -228,7 +228,7 @@ ul {
 
 
 
-/*=======СЕКЦІЯ ГЕРОЙ======*/
+/*
 .hero.section{
     padding: 200px 0px;
    
@@ -296,7 +296,8 @@ ul {
 
 }
 
-
+*/
+/*
 .speciality-list{
     display: flex;
 }
@@ -348,7 +349,8 @@ ul {
         
     letter-spacing: 0.03em;
 }
-
+ */
+ /*
 .projects.section{
     padding-top: 0px;
 }
@@ -375,7 +377,7 @@ ul {
     margin-right: 30px;
 }
 
-/*===ТЕКСТ НА ФОТОГРАФіЯХ===*/
+
 .projets-item{
     position: relative;
 }
@@ -405,14 +407,16 @@ ul {
 }
  
 
-/*Це прибере стандартний відступ від браузера*/
+
 .projets-item-img{
     display: block;
     max-width: 100%;
     height: auto;
-}
-/*Це прибере стандартний відступ від браузера*/
 
+}
+*/
+/*Це прибере стандартний відступ від браузера*/
+/*
 .team{
     background-color: var(--team-background-color);
 }
@@ -514,9 +518,9 @@ ul {
 
     column-gap: 10px;
 }
-
+*/
 /*======CТИЛІЗАЦІЯ SVG НАШИХ ПАРТНЕРІВ======*/
-
+/*
 .customers-title{
     margin-bottom: 50px;
 
@@ -571,9 +575,10 @@ ul {
     column-gap: 30px;
 }
 
-
+*/
 
 /*======СТИЛІЗАЦІЯ ФУТЕРА======*/
+/*
 .footer{
     padding-top: 60px;
     padding-bottom: 60px;
@@ -707,6 +712,7 @@ ul {
   | МОДАЛЬНЕ ВІКНО
   |============================
 */
+/*
 .backdrop.is-hidden{
     opacity: 0;
     pointer-events: none;
@@ -770,6 +776,7 @@ ul {
 
 
 /*ЗАПОВНЮЄМО НАШУ ФОРМУ*/
+/*
 .registration-form-title{
     display: block;
     margin-bottom: 12px;
@@ -960,8 +967,9 @@ ul {
     
     color: var(--focus-color);
 }
-
+*/
 /*==========ФОРМА В ФУТЕРІ============*/
+/*
 .footer-registration-form{
     display: flex;
     margin-left: 93px;
@@ -1076,7 +1084,7 @@ ul {
     gap: 10px;
 }
 
-
+*/
 /*=====ПОРТФОЛІО====*/
 .buttons{
     margin-bottom: 50px;
